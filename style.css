@@ -1,0 +1,61 @@
+h1 {
+  color: rgb(1, 50, 32);
+  display: inline;
+  font-style: normal;
+  font-size: 50px;
+  font-weight: normal;
+}
+body {
+  background:url(https://www.color-hex.com/palettes/14635.png) no-repeat center center fixed;
+  background-size: cover;
+}
+
+h2 {
+  color: rgb(1,60, 32);
+  font-size: 200px;
+}
+
+p {
+  color: rgb(1,60, 32);
+  font-size: 60px;
+}
+
+body {
+  font-family: serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  background-color: azure;
+  border-radius: 6px;
+  width: 75%;
+  margin: auto;
+  padding-top: 5px;
+  position: relative;
+}
+
+.question {
+  font-size: 2em;
+  color: hotpink;
+  width: 90%;
+  height: auto;
+  margin: auto;
+  border-radius: 6px;
+  background-color: lightpink;
+  text-align: center;
+}
+
+.choices {
+  font-family: Courier, serif;
+  color: lightpink;
+  margin-top: 2em;
+}
+
+.choice {
+  cursor: pointer;
+  font-size: 2em;
+  text-align: center;
+}
